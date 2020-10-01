@@ -21,6 +21,7 @@
     .titre{
         background-image: url(img/background.jpg);
         height: 250px;
+        margin-bottom: 50px;
     }
 
     .titre h1{
@@ -34,12 +35,11 @@
         padding-left: 5%;
         padding-right: 5%;
         width: 90%;
-
     }
 
     h2{
         color: blue;
-
+        text-align: center;
     }
 
     .divFin{
